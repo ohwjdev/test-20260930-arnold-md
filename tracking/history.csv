@@ -2,3 +2,4 @@ timestamp,task_id,subtask_id,user_id,action,outcome,detail,command,version,input
 2026-09-30T10:27:54.844Z,P0001,,297915765,claim_encoding,accepted,,campaign.claimTask,1,"{""task_id"":""P0001""}",1
 2026-09-30T16:46:07.819Z,P0001,,297915765,reap,released,encoding,,,,
 2026-10-01T13:27:29.093Z,P0001,,38179254,claim_encoding,accepted,,campaign.claimTask,1,"{""task_id"":""P0001""}",2
+2026-10-01T13:28:36.347Z,P0001,,38179254,submit_encoding,accepted,,campaign.submitZones,2,"{""task_id"":""P0001"",""measures"":85,""systems"":8,""movements"":1}",3
